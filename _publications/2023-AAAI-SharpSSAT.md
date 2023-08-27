@@ -11,4 +11,3 @@ paperurl: 'http://WWFUG.github.io/files/AAAI23_SharpSSAT.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
-<!-- [Download paper here](http://wanhsuanlin.github.io/files/DAC21_QBridge.pdf) -->
