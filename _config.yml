@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yu-Wei Fan / Personal Page"
+title                    : "Yu-Wei Fan"
 title_separator          : "-"
 name                     : &name "Yu-We Fan"
 description              : &description "personal description"
