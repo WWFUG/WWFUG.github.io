@@ -84,10 +84,10 @@ author:
   avatar           : "profile_trimmed.png"
   bio              : "I am applying for Fall 2023 ECE/CS PhD programs."
   location         : "Taipei, Taiwan"
-  employer         :
-  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=yiWtZDkAAAAJ&hl=zh-TW"
   email            : "r11943096@ntu.edu.tw"
+  CV               : "/files/CV.pdf"
+  github           : "https://github.com/WWFUG"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,6 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/WWFUG"
   google_plus      :
   keybase          :
   instagram        :
@@ -115,7 +114,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  CV               : "/files/CV.pdf"
 
 
 # Reading Files
