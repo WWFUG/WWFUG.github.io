@@ -47,10 +47,10 @@
     {% elsif post.collection == 'publications' %}
       <p>Author: <i>{{ post.author }} </i>
       {% if post.venue %}
-        <br/>Published in { post.venue } 
+        <br/>Published in <i>{{ post.venue }}</i> 
       {% endif %}
       {% if post.status %}
-        <br/> <i>{{ post.status }}</i> 
+        <br/> { post.status } 
       {% endif %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
