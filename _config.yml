@@ -82,10 +82,11 @@ analytics:
 author:
   name             : "Yu-Wei Fan"
   avatar           : "profile.jpeg"
-  bio              : "I am a second-year master student at NTU GIEE. \nI am currently applying for Fall 2023 ECE/CS PhD."
+  bio              : "I am a second-year master student at NTU GIEE. \n" 
+                     "I am currently applying for Fall 2023 ECE/CS PhD."
   location         : "Taipei, Taiwan"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  # pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.tw/citations?user=yiWtZDkAAAAJ&hl=zh-TW"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
