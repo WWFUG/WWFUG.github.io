@@ -11,6 +11,6 @@ I received my bachelor's degree in Electrical Engineering from National Taiwan U
 I am a Master's student at the Graduate Institute of Electronic Engineering at NTU and expect to obtain my master's degree in July 2024.
 I am currently applying for Fall 2024 ECE/CS PhD programs.
 
-I have worked with my advisor [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA). I also worked with [Dr. Yu-Fang Chen](https://bull.iis.sinica.edu.tw/yfc/doku.php) on neural network testing.
+I have worked with my advisor [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA) since 2020. I also worked with [Dr. Yu-Fang Chen](https://bull.iis.sinica.edu.tw/yfc/doku.php) on neural network testing.
 
 My research interests are decision procedures (QBF/SAT solving), formal verification, model checking, and EDA.
