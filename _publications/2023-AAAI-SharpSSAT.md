@@ -7,7 +7,7 @@ author: 'Yu-Wei Fan, Jie-Hong Roland Jiang.'
 #date: June, 2023
 venue: 'Proceedings of the AAAI conference on Artificial Intelligence (AAAI), 2023'
 link: 'https://ojs.aaai.org/index.php/AAAI/article/view/25509'
-paperurl: 'http://WWFUG.github.io/files/AAAI23_SharpSSAT.pdf'
+paperurl: '../files/AAAI23_SharpSSAT.pdf'
 ---
 <!-- This paper is about the number 1. The number 2 is left for future work. -->
 
