@@ -1,7 +1,7 @@
 ---
 title: "SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver"
 collection: publications
-permalink: /publication/2021-DAC-Qroute
+permalink: /publication/2023-AAAI-SharpSSAT
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 author: 'Yu-Wei Fan, Jie-Hong Roland Jiang.'
 #date: June, 2023
