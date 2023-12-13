@@ -10,9 +10,9 @@ redirect_from:
 
 ## News
 
-- 2023-12-09: Our paper _Unifying Decision and Function Queries in Stochastic Boolean Satisfiability_ is accepted at [AAAI 2024](https://aaai.org/aaai-conference/)
-- 2023-07-21: Our paper _WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits_ is accepted at [ICCAD 2023](https://2023.iccad.com/)
-- 2022-11-18: Our paper _SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver_ is accepted at [AAAI 2023](https://aaai-23.aaai.org/)
+- December 2023: Our paper _Unifying Decision and Function Queries in Stochastic Boolean Satisfiability_ was accepted to [AAAI 2024](https://aaai.org/aaai-conference/)
+- July 2023: Our paper _WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits_ was accepted to [ICCAD 2023](https://2023.iccad.com/)
+- November 2023: Our paper _SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver_ was accepted to [AAAI 2023](https://aaai-23.aaai.org/)
 
 ## Short Biography
 
