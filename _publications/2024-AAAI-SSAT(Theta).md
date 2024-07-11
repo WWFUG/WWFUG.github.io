@@ -7,5 +7,5 @@ author: 'Yu-Wei Fan, Jie-Hong Roland Jiang.'
 #date: 2021-12-05
 venue: 'Proceedings of the AAAI conference on Artificial Intelligence (AAAI), 2024'
 link: 'https://ojs.aaai.org/index.php/AAAI/article/view/28637'
-paperurl: '../files/AAAI24_SSAT(Theta).pdf'
+# paperurl: '../files/AAAI24_SSAT(Theta).pdf'
 ---
