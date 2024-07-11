@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## News
-
+- July 2024: Our paper _2-DQBF Solving and Certification via Property-Directed Reachability Analysis_ was accepted to [FMCAD 2024](https://fmcad.org/FMCAD24/)
 - December 2023: Our paper _Unifying Decision and Function Queries in Stochastic Boolean Satisfiability_ was accepted to [AAAI 2024](https://aaai.org/aaai-conference/)
 - July 2023: Our paper _WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits_ was accepted to [ICCAD 2023](https://2023.iccad.com/)
 - November 2023: Our paper _SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver_ was accepted to [AAAI 2023](https://aaai-23.aaai.org/)
