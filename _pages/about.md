@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu-Wei Fan's Personal Website"
+# title: "Yu-Wei Fan's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
