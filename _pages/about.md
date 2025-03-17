@@ -16,9 +16,6 @@ redirect_from:
 
 ## Short Biography
 
-I am a first-year ECE PhD student at Princeton University. I received my B.S. and M.S. from National Taiwan University (NTU).
-During my Master's study, I was advised by [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA).
+I am a first-year ECE PhD student at Princeton University advised by [Prof. Sharad Malik](https://www.princeton.edu/~sharad/). I received my B.S. and M.S. from National Taiwan University (NTU). During my Master's study, I was advised by [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA).
 
-My research interests include automated reasoning, formal verification, and hardware security.
-
-Please find my CV [here](../files/CV.pdf) to learn more about me.
+I am broadly interested in automated reasoning, formal verification, and hardware security.
