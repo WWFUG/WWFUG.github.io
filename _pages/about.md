@@ -9,10 +9,11 @@ redirect_from:
 ---
 
 ## News
+- February 2026: Our paper _Hierarchical Boundary Recovery: Overcoming Synthesis Obscurity via SAT Sweeping_ was accepted to DAC 2026.
 - December 2025: Our paper _SecIC3: Customizing IC3 for Hardware Security Verification_ was accepted to DATE 2026.
 - July 2024: Our paper _2-DQBF Solving and Certification via Property-Directed Reachability Analysis_ was accepted to FMCAD 2024.
 - December 2023: Our paper _Unifying Decision and Function Queries in Stochastic Boolean Satisfiability_ was accepted to AAAI 2024.
-- July 2023: Our paper _WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits_ was accepted to ICCAD 2023.
+<!-- July 2023: Our paper _WolFEx: Word-Level Function Extraction and Simplification from Gate-Level Arithmetic Circuits_ was accepted to ICCAD 2023.-->
 <!-- November 2022: Our paper _SharpSSAT: A Witness-Generating Stochastic Boolean Satisfiability Solver_ was accepted to AAAI 2023.-->
 
 ## Short Biography
