@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yu-Wei Fan"
   avatar           : "profile_trimmed.png"
-  bio              : "ECE PhD student at Princeton University"
+  bio              : "ECE PhD Candidate @ Princeton University"
   location         : "Princeton, NJ, USA"
   googlescholar    : "https://scholar.google.com.tw/citations?user=yiWtZDkAAAAJ&hl=zh-TW"
   email            : "yf9172@princeton.edu"
@@ -102,7 +102,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"https://orcid.org/0009-0004-3379-2371"
+  orcid            : "https://orcid.org/0009-0004-3379-2371"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
