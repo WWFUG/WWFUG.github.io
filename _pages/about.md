@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Yu-Wei Fan's Personal Website"
-excerpt: "About me"
+title: "Yu-Wei Fan | Princeton ECE | Formal Verification"
+description: "Yu-Wei Fan is an Electrical and Computer Engineering Ph.D. candidate at Princeton University, advised by Sharad Malik. Research: formal verification, automated reasoning, and hardware security."
 author_profile: true
 redirect_from: 
   - /about/
@@ -20,6 +20,9 @@ redirect_from:
 
 ## Short Biography
 
-I am a third-year ECE PhD student at Princeton University advised by [Prof. Sharad Malik](https://www.princeton.edu/~sharad/). I received my B.S. and M.S. from National Taiwan University (NTU). During my Master's study, I was advised by [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA).
+I am a third-year ECE Ph.D. candidate at [Princeton University](https://ece.princeton.edu/people/yu-wei-fan), advised by [Prof. Sharad Malik](https://www.princeton.edu/~sharad/). I received my B.S. and M.S. from National Taiwan University (NTU). During my Master's study, I was advised by [Prof. Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/) on decision procedures and electronic design automation (EDA).
 
 I am broadly interested in automated reasoning, formal verification, and hardware security.
+
+
+For publications and research updates, see my [publications](/publications/), [Google Scholar](https://scholar.google.com/citations?user=yiWtZDkAAAAJ), and [DBLP](https://dblp.org/pid/352/8670.html). My researcher identifier is [ORCID 0009-0004-3379-2371](https://orcid.org/0009-0004-3379-2371).

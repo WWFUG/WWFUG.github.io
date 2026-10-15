@@ -1,22 +1,13 @@
-# main links links
+# Main site navigation. Only active academic pages are linked here.
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Home"
+    url: /
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/
+  - title: "Teaching"
+    url: /teaching/
 
-  # - title: "Talks"
-  #   url: /talks/        
-    
-  # - title: "Portfolio"
-  #   url: /portfolio/
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "CV"
+    url: /cv/
