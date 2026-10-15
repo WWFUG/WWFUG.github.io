@@ -69,12 +69,10 @@ social:
   type                   : Person
   name                   : "Yu-Wei Fan"
   links:
-    - "https://ece.princeton.edu/people/yu-wei-fan"
     - "https://scholar.google.com/citations?user=yiWtZDkAAAAJ"
     - "https://dblp.org/pid/352/8670.html"
     - "https://orcid.org/0009-0004-3379-2371"
     - "https://www.linkedin.com/in/yu-wei-fan-b46b4515a/"
-    - "https://github.com/WWFUG"
 
 
 # Analytics
@@ -93,7 +91,6 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=yiWtZDkAAAAJ"
   email            : "yf9172@princeton.edu"
   CV               : "https://wwfug.github.io/files/CV.pdf"
-  github           : "WWFUG"
   uri              :
   bitbucket        :
   codepen          :
@@ -108,7 +105,6 @@ author:
   lastfm           :
   linkedin         : "yu-wei-fan-b46b4515a"
   orcid            : "https://orcid.org/0009-0004-3379-2371"
-  princeton        : "https://ece.princeton.edu/people/yu-wei-fan"
   dblp             : "https://dblp.org/pid/352/8670.html"
   pinterest        :
   soundcloud       :

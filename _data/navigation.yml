@@ -1,13 +1,2 @@
-# Main site navigation. Only active academic pages are linked here.
-main:
-  - title: "Home"
-    url: /
-
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Teaching"
-    url: /teaching/
-
-  - title: "CV"
-    url: /cv/
+# Intentionally no navigation tabs. The site title links to the homepage.
+main: []
