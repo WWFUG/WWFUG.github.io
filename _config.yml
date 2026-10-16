@@ -141,6 +141,8 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
+  - markdown_generator
+  - talkmap
   - config
   - gulpfile.js
   - log
